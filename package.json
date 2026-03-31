@@ -4,6 +4,9 @@
   "description": "CLI to zip git stash and modified files preserving directory structure",
   "type": "module",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/flxlfx/cp-stash"
