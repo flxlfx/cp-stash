@@ -1,6 +1,6 @@
 {
   "name": "@flxlfx/cp-stash",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "CLI to zip git stash and modified files preserving directory structure",
   "type": "module",
   "private": false,
